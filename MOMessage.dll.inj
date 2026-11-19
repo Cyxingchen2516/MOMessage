@@ -5,3 +5,4 @@
 0x533F50 = MOMMsg_SidebarHook, 5
 0x69234B = MsgText_RadarClickGate, 5
 0x692419 = MOMMsg_PanelGate, 7
+0x4F42F0 = Port_Poll, 5
