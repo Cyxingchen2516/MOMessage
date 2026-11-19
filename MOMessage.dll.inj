@@ -1,0 +1,7 @@
+0x5D3BA0 = MsgText_AddMessageHook, 6
+0x5D49A0 = MOMMsg_MsgListEntry, 6
+0x5D4A94 = MOMMsg_MessageDrawHook, 7
+0x777998 = MOMMsg_WheelHook, 6
+0x533F50 = MOMMsg_SidebarHook, 5
+0x69234B = MsgText_RadarClickGate, 5
+0x692419 = MOMMsg_PanelGate, 7
